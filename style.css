@@ -5,25 +5,33 @@
     margin-left: 50px;
     margin-right: 50px;
     font-size: 16px;
-}
-.reasons  {
+    }
+    .reasons  {
     text-align: left;
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
     font-size: 20px;
-}
+    }
 
-.two {
+    .two {
     text-align: left;
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
     font-size: 16px;
-}
+    }
 
-.three {
+    .three {
     margin-left: 50px;
     margin-right: 50px;
+
+    }
+
+    .five {
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 16px;
     
-}
+    }
