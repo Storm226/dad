@@ -1,0 +1,29 @@
+    
+    .intro  {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 16px;
+}
+.reasons  {
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+.two {
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 16px;
+}
+
+.three {
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
